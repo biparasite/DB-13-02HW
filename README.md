@@ -17,7 +17,7 @@
 
 </details>
 
-<details> <summary>Зашифрованный каталог пользователя/summary>
+<details> <summary>Зашифрованный каталог пользователя</summary>
 
 ![cipher](https://github.com/biparasite/DB-13-02HW/blob/main/task_1.2.png "cipher")
 
