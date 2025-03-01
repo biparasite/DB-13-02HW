@@ -13,13 +13,13 @@
 
 <details> <summary>Исходный каталог пользователя</summary>
 
-![free](https://github.com/biparasite/DB-13-02HW/blob/main/task-1.1.png "free")
+![free](https://github.com/biparasite/DB-13-02HW/blob/main/task_1.1.png "free")
 
 </details>
 
 <details> <summary>Зашифрованный каталог пользователя/summary>
 
-![free](https://github.com/biparasite/DB-13-02HW/blob/main/task-1.2.png "free")
+![cipher](https://github.com/biparasite/DB-13-02HW/blob/main/task_1.2.png "cipher")
 
 </details>
 
@@ -37,36 +37,36 @@
 
 <details> <summary>Установка cryptosetup</summary>
 
-![cryptosetup](https://github.com/biparasite/DB-13-02HW/blob/main/task-2.1.png "cryptosetup")
+![cryptosetup](https://github.com/biparasite/DB-13-02HW/blob/main/task_2.1.png "cryptosetup")
 
 </details>
 
 <details> <summary>Создайте LUKS-раздела с типом luks2</summary>
 
-![cryptosetup](https://github.com/biparasite/DB-13-02HW/blob/main/task-2.2.png "cryptosetup")
+![cryptosetup](https://github.com/biparasite/DB-13-02HW/blob/main/task_2.2.png "cryptosetup")
 
 </details>
 
 <details> <summary>luksOpen - создние устройства ввода-вывода</summary>
 
-![luksOpen](https://github.com/biparasite/DB-13-02HW/blob/main/task-2.3.png "luksOpen")
+![luksOpen](https://github.com/biparasite/DB-13-02HW/blob/main/task_2.3.png "luksOpen")
 
 </details>
 
 <details> <summary>Проверка существования устройства ввода-вывода</summary>
 
-![luksOpen](https://github.com/biparasite/DB-13-02HW/blob/main/task-2.4.png "luksOpen")
+![luksOpen](https://github.com/biparasite/DB-13-02HW/blob/main/task_2.4.png "luksOpen")
 
 </details>
 
 <details> <summary>Форматирование</summary>
 
-![mkfs.ext4](https://github.com/biparasite/DB-13-02HW/blob/main/task-2.5.png "mkfs.ext4")
+![mkfs.ext4](https://github.com/biparasite/DB-13-02HW/blob/main/task_2.5.png "mkfs.ext4")
 
 </details>
 
 <details> <summary>Монтирование диска</summary>
 
-![mount](https://github.com/biparasite/DB-13-02HW/blob/main/task-2.6.png "mount")
+![mount](https://github.com/biparasite/DB-13-02HW/blob/main/task_2.6.png "mount")
 
 </details>
